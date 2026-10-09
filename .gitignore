@@ -1,0 +1,13 @@
+# DataCamp/third-party datasets and models are not redistributed.
+data/
+*.pkl
+
+# Python caches, notebook state and local tooling.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.pytest_cache/
+.DS_Store
